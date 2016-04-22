@@ -1,0 +1,7 @@
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\bin\Debug\foodTest.dll
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\bin\Debug\foodTest.pdb
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\bin\Debug\food.exe
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\bin\Debug\food.pdb
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\obj\Debug\foodTest.csprojResolveAssemblyReference.cache
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\obj\Debug\foodTest.dll
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\foodTest\obj\Debug\foodTest.pdb

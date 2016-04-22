@@ -1,0 +1,9 @@
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\food.exe
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\food.pdb
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\UnitTestProject1.dll.CodeAnalysisLog.xml
+C:\Users\irk\Documents\Visual Studio 2013\Projects\food\UnitTestProject1\bin\Debug\UnitTestProject1.dll.lastcodeanalysissucceeded
