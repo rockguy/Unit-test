@@ -16,6 +16,11 @@ namespace food
             meals.Add(new Meal("Whiskey"));
             meals.Add(new Meal("Sushi"));
             meals.Add(new Meal("Tea"));
+            meals.Add(new Meal("Coffe"));
+            meals.Add(new Meal("Soup"));
+            meals.Add(new Meal("Meat"));
+            meals.Add(new Meal("Vine"));
+            meals.Add(new Meal("Beer"));
  
         }
         public List<Meal> list() 

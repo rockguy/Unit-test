@@ -9,21 +9,42 @@ namespace food
     public class Order
     {
         public List<Meal> orders = new List<Meal>();
+        
         public Order() {
-            orders.Add(new Meal("Milk"));
+            
             
         }
 
-        public void addMeal(Meal meal) 
+        public void AddMeal(String meal) 
         {
-            this.orders.Add(meal);
-        }
-        public void addMeal(Meal meal, int count)
-        {
-            for (int i = 1; i <= count; i++) 
+            if (InMenu(meal))
             {
-                orders.Add(meal);
+                this.orders.Add(new Meal(meal));
             }
+            else throw new ArgumentOutOfRangeException(); 
+          }
+        public void AddMeal(String meal, int count)
+        {
+            if (InMenu(meal))
+            {
+                for (int i = 1; i <= count; i++)
+                {
+                    this.orders.Add(new Meal(meal));
+                }
+            }
+            else throw new ArgumentOutOfRangeException(); 
+            
+        }
+
+        public bool InMenu(String meal) 
+        {
+            Menu menu=new Menu();
+            Meal Meal = new Meal(meal);
+            for(int i=0;i<menu.meals.Count;i++)
+            {
+                if (menu.meals[i].name == Meal.name) return true;
+            }
+            return false;
         }
     }
 }
